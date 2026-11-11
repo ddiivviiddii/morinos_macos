@@ -1,6 +1,6 @@
 # Morinus 9.6.3 for Apple Silicon (macOS)
 
-An unofficial Apple Silicon (`arm64`) build of the open-source astrology software [Morinus 9.6.3](https://sourceforge.net).
+An unofficial Apple Silicon (`arm64`) build of the open-source astrology software [Morinus 9.6.3](https://sourceforge.net/projects/morinus-updated/).
 
 ## System Requirements
 * **Architecture:** Apple Silicon (M1, M2, M3, M4 or newer)
@@ -17,7 +17,8 @@ An unofficial Apple Silicon (`arm64`) build of the open-source astrology softwar
 
 ## Credits
 * **Original Author:** Robert Nagy
-* **Updated Version (9.6.3):** Special thanks to [shin10567](https://sourceforge.net) for maintaining and updating the Morinus project.
+* **Updated Version (9.6.3):** Special thanks to [Shin 10567](https://sourceforge.net/u/shin10567/profile/)
+for maintaining and updating the Morinus project.
 
 ## License
 This project is distributed under the **GNU General Public License v3.0 (GPL-3.0)**, in accordance with the original Morinus source code license. See the [LICENSE](LICENSE) file for details.
